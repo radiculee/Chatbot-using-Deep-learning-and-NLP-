@@ -1,0 +1,14 @@
+Points
+> Installed Anacoonda
+>Created a seperate virtual environment (chatBot) and installed spyder and tensorflow For Deep learning
+>Created a folder Deep NLP and chatbot.py as primary file
+>Get the cornell movie dialog corpus dataset in the folder
+>in chatbot.py import libraries and datasets
+>Create a dictionary to map line and its conversations
+>Everything installed is just in the Chatbot environment so it will not run in any other enviornment
+>go to anaconda cmd and type activate chatbot so
+>our virtual enviornment will be active
+>then open anaconda launcher and select root "Chatbot"
+>open spider and go the files in the file explorer
+>Run everything to debug the code and continue with the project
+>save timely as aut0save is not on
